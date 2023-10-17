@@ -56,4 +56,4 @@ https://localhost:5001
 
 ## License 
 MIT License
-Copyright © Elijah Shawn Cartwright 2023
+Copyright © Joseph McMahon 2023
