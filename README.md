@@ -1,4 +1,4 @@
-# Learning READ ME
+# READ ME
 
 #### By Joseph McMahon
 
