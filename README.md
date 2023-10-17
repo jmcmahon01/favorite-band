@@ -12,7 +12,7 @@
 
 ## Description:
 
-Creating a read me to learn how to create a read me.
+Website for greatest band ever.
 
 ## Setup and Installation Guide:
 
